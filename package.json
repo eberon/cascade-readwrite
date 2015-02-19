@@ -1,0 +1,19 @@
+{
+  "name": "cascade-readwrite",
+  "version": "1.0.0",
+  "description": "A simple wrapper for reading and writing the contents of Cascade Server assets",
+  "main": "index.js",
+  "dependencies": {
+    "soap-cascade": "git://github.com/eberon/soap-cascade#master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eberon/cascade-readwrite"
+  },
+  "author": "Lee Roberson <eberon@gmail.com> (http://eberon.net/)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/eberon/cascade-readwrite/issues"
+  },
+  "homepage": "https://github.com/eberon/cascade-readwrite"
+}

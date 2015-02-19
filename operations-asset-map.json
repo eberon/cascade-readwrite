@@ -1,0 +1,22 @@
+{
+	"format_XSLT": {
+		"identifier_type": "format_XSLT",
+		"contentField": "xml",
+        "return_type": "xsltFormat"
+		},
+	"file": {
+		"identifier_type": "file",
+		"contentField": "data",
+		"return_type": "file"
+		},
+	"template": {
+		"identifier_type": "template",
+		"contentField": "xml",
+		"return_type": "template"
+	},
+	"folder": {
+		"identifier_type": "folder",
+		"contentField": "children",
+		"return_type": "folder"
+	}
+}
