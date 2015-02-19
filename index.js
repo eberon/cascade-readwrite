@@ -7,7 +7,6 @@ var path = require('path');
 var soap = require('soap-cascade');
 var Promise = require('promise');
 var map = require('./operations-asset-map.json');
-var jsonquery = require('../json-query/index.js');
 
 //var config = require('./client-config.js');
 
