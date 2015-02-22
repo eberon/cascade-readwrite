@@ -52,8 +52,6 @@ var cascadeClient = function(instance, username, password) {
 
     function write(remotePath, type, content, siteId, siteName) {
 
-    	console.log(arguments);
-
     	soapArgs.asset = {};
 
 		soapArgs.asset[map[type].return_type] = {
